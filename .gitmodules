@@ -1,0 +1,21 @@
+[submodule "CA0"]
+	path = CA0
+	url = https://github.com/DabiriAghdam/ad-click-prediction
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/DabiriAghdam/snake-and-food
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/DabiriAghdam/logic-gates-genetic-algorithm
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/DabiriAghdam/naive-bayes-sentiment-analysis
+[submodule "CA4"]
+	path = CA4
+	url = https://github.com/DabiriAghdam/house-price-prediction
+[submodule "CA5-Phase1"]
+	path = CA5-Phase1
+	url = https://github.com/DabiriAghdam/neural-network-from-scratch
+[submodule "CA5-Phase2"]
+	path = CA5-Phase2
+	url = https://github.com/DabiriAghdam/covid19-pneumonia-diagnosis-lung-xray
